@@ -7,14 +7,26 @@
                 A compound proposition is a <term>tautology</term> if it is always true regardless of the truth values of its component propositions. 
                 If, on the other hand, a compound proposition is always false regardless of its component propositions, we say that such a proposition is a <term>contradiction</term>.
             </p>
+
         </statement>
     </definition>
     <note>
-        <p>
+                 <p>
             A proposition that is neither a tautology nor a contradiction is called a <term>contingency</term>.
         </p>
+        
     </note>
-    
+
+
+    <definition>
+        <statement>
+            <p> 
+                This is another definition of <term>term</term>    
+            </p>
+        </statement>
+    </definition>
+
+
     <example>
         <statement>
             <p>
